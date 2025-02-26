@@ -16,3 +16,4 @@ Everything else:
 - [How to monitor vSphere with Datadog](https://www.datadoghq.com/blog/vsphere-datadog/)
 - [GCVE migration resource](https://cloud.google.com/architecture/vmware-engine-blueprint)
 - [Google Cloud migration guide](https://cloud.google.com/architecture/migration-to-gcp-getting-started)
+- [Cloud Adoption Framework](https://cloud.google.com/adoption-framework?e=48754805&hl=en)
